@@ -1,0 +1,2 @@
+print("tik-tik")
+print("tik-tik")
